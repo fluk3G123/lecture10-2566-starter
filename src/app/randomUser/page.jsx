@@ -1,7 +1,7 @@
 "use client";
 
 import { UserCard } from "@/components/UserCard";
-import { cleanUser, cleanUser } from "@/libs/cleanUser";
+import { cleanUser } from "@/libs/cleanUser";
 import axios from "axios";
 import { useState } from "react";
 
